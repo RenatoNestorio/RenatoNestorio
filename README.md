@@ -1,4 +1,4 @@
-### Ola, Eu so o Renato!!! 👋
+### Olá, Eu sou o Renato!!! 👋
 
 <!--
 **RenatoNestorio/RenatoNestorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
